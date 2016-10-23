@@ -8,7 +8,7 @@ published: true
 
 ## Video Art
 
-All the videos that I have worked on are [here](/pages/video.md/).
+All the videos that I have worked on are [here](/pages/video/).
 Alternatively, Youtube Link: <http://youtube.com/theideator>
 
 ## Photography
