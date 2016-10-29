@@ -17,6 +17,5 @@ Life right now is about self-discovery and doing good work. Good work for me is 
 
 I want to work on [these](/pages/ideashed/) someday. Interested? Get in touch.
 
-I find these [resources](/pages/resources/) helpful.
+//I find these [resources](/pages/resources/) helpful.
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16YqCNhRjWNJUiffOOJWIwIcT6zvJ8DHfo9OZ6W5g37w&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' frameborder='0'></iframe>
