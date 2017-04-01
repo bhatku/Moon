@@ -8,6 +8,7 @@ published: true
 ### Namaste!
 
 I’m Madhur. I love jumping into water. I prefer cooking over restaurants and trees over ACs.
+Current Base: Bhopal
 
 I work at [Sehatvan](http://sehatvan.in), where I manage the retreats, outreach and development. I am on the quest to learn without college education. [This](/pages/now/) is what I’m exactly doing right now. Sometimes I *try* to make [art](/pages/art/).
 
@@ -17,7 +18,7 @@ Life right now is about self-discovery and doing good work - anything that sprin
 
 I think true freedom is about taking ownership of everything that comes in way and being owned by nothing.
 
-Here's the parking lot for ideas to work on [these](/pages/ideashed/) someday. Interested? Get in touch.
+[Here's](/pages/ideashed/) the parking lot for ideas I want to work on someday. Interested? Get in touch.
 
 *Nothing that is worth doing can be achieved in our lifetime; therefore we must be saved by hope.*
 
