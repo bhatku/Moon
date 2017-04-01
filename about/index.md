@@ -17,7 +17,15 @@ Life right now is about self-discovery and doing good work - anything that sprin
 
 I think true freedom is about taking ownership of everything that comes in way and being owned by nothing.
 
-I want to work on [these](/pages/ideashed/) someday. Interested? Get in touch.
+Here's the parking lot for ideas to work on [these](/pages/ideashed/) someday. Interested? Get in touch.
 
-//I find these [resources](/pages/resources/) helpful. You may too.
+*Nothing that is worth doing can be achieved in our lifetime; therefore we must be saved by hope.*
+
+*Nothing which is true or beautiful or good makes complete sense in any immediate context of history; therefore we must be saved by faith.* 
+
+*Nothing we do, however virtuous, can be accomplished alone; therefore we must be saved by love.* 
+
+*No virtuous act is quite as virtuous from the standpoint of our friend or foe as it is from our standpoint. Therefore we must be saved by the final form of love which is forgiveness.*
+
+*― Reinhold Niebuhr*
 
